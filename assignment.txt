@@ -1,2 +1,3 @@
 first assignment
-git econflict hereconf
+git essentials solve conflict here
+
